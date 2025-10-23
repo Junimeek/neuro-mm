@@ -1,0 +1,8 @@
+enabled = true
+name = "Neuro-sama Song Pack"
+description = "Song pack for the Neuro-sama songs!\nCurrently, this only has BOOM."
+version = "0.1"
+date = "10.15.2025"
+author = "SakemiTech"
+
+include = ["."]
