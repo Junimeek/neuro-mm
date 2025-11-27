@@ -4,21 +4,21 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex ft.<br/>Neuro-sama & anny](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Started but not implemented |
-| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Not started |
+| [Seishun Complex ft.<br/>Neuro-sama & anny](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Started, work put on hold for now |
+| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Started charting |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Done, charts will likely change a bit |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
 
 ## Download
 ### Latest Release
-Currently, this song pack is in Beta Version `0.1` with only one song (BOOM; the others will be completed at a later date, I just wanted to push something out).
+Currently, this song pack is in Beta Version `0.1.1` with only one song (BOOM; the others will be completed at a later date, I just wanted to push something out).
 
-The recommended way to download this mod is through DivaModManager. If you already have it installed, you can go to the **DMA Mods** tab and search for "Neuro-sama Song Pack".
+The recommended way to download this mod is through **Enomoto's DivaModManager**. If you already have it installed, you can go to the **DMA Mods** tab and search for "Neuro-sama Song Pack".
 
 Alternatively, a download link can be found in the releases on this repository, or on the [Diva Mod Archive](https://divamodarchive.com/post/293) website. ~~Whenever~~ If all four songs are completed, I will be uploading this to GameBanana as well.
 
 ### Required Mods
-- [DivaModManager](https://gamebanana.com/tools/19485)
+- [Enomoto's DivaModManager](https://github.com/enomoto-r02/DivaModManager-by-Enomoto)
 
 ### Recommended Mods
 - Mega Mix Thumbnail Manager
