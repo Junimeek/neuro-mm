@@ -1,14 +1,15 @@
 # Neuro-sama Song Pack
-A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix/) that adds charts for the four Neuro-sama songs to the game.
+A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix) that adds charts for the four Neuro-sama songs to the game.
 
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex ft.<br>Neuro-sama & anny](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Started, work put on hold for now |
-| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Started charting |
+| [Seishun Complex ft.<br>Neuro-sama & anny](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Ex chart started, work put on hold for now |
+| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Ex chart around halfway done; other difficulties not started |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Done, charts will likely change a bit |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
 | [Chinatown Blues ft.<br>Neuro-sama & vedal987](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
+| [Colorful Array](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 
 ## Download
 ### Latest Release
