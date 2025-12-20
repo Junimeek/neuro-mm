@@ -1,5 +1,5 @@
 # Neuro-sama Song Pack
-A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix) that adds charts for the four Neuro-sama songs to the game.
+A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix) that adds charts for the six Neuro-sama songs to the game.
 
 ## Songs
 | Song Name | Chart Status |
@@ -15,9 +15,9 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ### Latest Release
 Currently, this song pack is in Beta Version `0.1.1` with only one song (BOOM; the others will be completed at a later date, I just wanted to push something out).
 
-The recommended way to download this mod is through **Enomoto's DivaModManager**. If you already have it installed, you can go to the **DMA Mods** tab and search for "Neuro-sama Song Pack".
+[Enomoto's DivaModManager](https://github.com/enomoto-r02/DivaModManager-by-Enomoto) is **required** to play this mod. After installation, you can go to the **DMA Mods** tab and search for "Neuro-sama Song Pack".
 
-Alternatively, a download link can be found in the releases on this repository, or on the [Diva Mod Archive](https://divamodarchive.com/post/293) website. ~~If~~ all four songs are completed, I will be uploading this to GameBanana as well even though that site sucks.
+Alternatively, a download link can be found in the releases on this repository, or on [Diva Mod Archive](https://divamodarchive.com/post/293). ~~If~~ all six songs are completed, I will be uploading this to GameBanana as well even though that site sucks.
 
 ### Required Mods
 - [Enomoto's DivaModManager](https://github.com/enomoto-r02/DivaModManager-by-Enomoto)
@@ -28,7 +28,7 @@ Alternatively, a download link can be found in the releases on this repository, 
 ## Cloning this Repository
 > **Everything beyond this point is for all zero people who want to screw around with the source.**
 
-Note that the videos will not be included in this repository since Git doesn't play nice with large files. They're just direct rips of the YouTube uploads tho, so you can just use something like [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download the videos yourself and re-encode them to a framerate that Comfy Studio will be happy with (24fps for Seishun and LIFE, 60fps for BOOM).
+Note that the videos will not be included in this repository since Git doesn't play nice with large files. They're just direct rips of the YouTube releases tho, so you can just use something like [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download the videos yourself and re-encode them in a framerate that Comfy Studio will be happy with (24fps for Seishun and LIFE, 60fps for BOOM).
 
 ### Required Software
 You must be in the [Project DIVA Modding 2nd Discord server](https://discord.gg/cvBVGDZ) to access these tools.
