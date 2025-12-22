@@ -4,11 +4,11 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex ft.<br>Neuro-sama & anny](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Ex chart started, work put on hold for now |
-| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Ex chart around halfway done; other difficulties not started |
+| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Ex chart started, work put on hold for now |
+| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Extreme chart done; other difficulties not started |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Done, charts will likely change a bit |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
-| [Chinatown Blues ft.<br>Neuro-sama & vedal987](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
+| [Chinatown Blues<br>(Neuro-sama & Vedal987 ver.)](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 | [Colorful Array](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 
 ## Download
