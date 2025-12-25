@@ -4,23 +4,21 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Ex chart started, work put on hold for now |
-| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Extreme chart done; other difficulties not started |
-| [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Done, charts will likely change a bit |
+| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Extreme chart started, work put on hold for now |
+| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Hard and Extreme charts done; other difficulties not started |
+| [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Hard and Extreme charts done; Normal needs to be reworked |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
 | [Chinatown Blues<br>(Neuro-sama & Vedal987 ver.)](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 | [Colorful Array](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 
 ## Download
 ### Latest Release
-Currently, this song pack is in Beta Version `0.1.1` with only one song (BOOM; the others will be completed at a later date, I just wanted to push something out).
+Currently, this song pack is in Beta Version `0.2` with only two songs (LIFE and BOOM). The others will be completed at a later date, I just wanted to push something out.
 
-[Enomoto's DivaModManager](https://github.com/enomoto-r02/DivaModManager-by-Enomoto) is **required** to play this mod. After installation, you can go to the **DMA Mods** tab and search for "Neuro-sama Song Pack".
-
-Alternatively, a download link can be found in the releases on this repository, or on [Diva Mod Archive](https://divamodarchive.com/post/293). ~~If~~ all six songs are completed, I will be uploading this to GameBanana as well even though that site sucks.
+If you'd like to use one, any mod manager should work without many issues. Alternatively, a direct download link can be found in the releases on this repository or on [Diva Mod Archive](https://divamodarchive.com/post/293). ~~If~~ all six songs are completed, I will be uploading this to GameBanana as well even though that site sucks.
 
 ### Required Mods
-- [Enomoto's DivaModManager](https://github.com/enomoto-r02/DivaModManager-by-Enomoto)
+- [DIVA Mod Loader](https://github.com/blueskythlikesclouds/DivaModLoader) version `0.0.16` or newer
 
 ### Recommended Mods
 - Mega Mix Thumbnail Manager

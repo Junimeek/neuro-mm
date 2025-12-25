@@ -1,35 +1,33 @@
-pv_8544.lyric.001=
-
-If I could
-walk right beside you, show you just who I am
-you know I would
-The memories we made fade
-I realize we'll never be the same
-Why can't you see my view?
-Eye to eye, what's fake? what's true?
-Life and these lies
-And every day I'm changing
-and my thoughts keep rearranging
-I don't know if it's all real or fiction
-My memory is hazy,
-can't be sure if what I'm thinking's a lie
-Don't let me go, I can't go
-I'm fighting just to find
-Oh, no
-You go on and grow
-Pass by all that I've known
-And I'm left here all alone
-Recycled thoughts I'm fed
-keep racing in my head
-'Till there's nowhere left to go
-Waiting here for you
-I'm always waiting here for you
-What am I to do? What am I to do?
-when you're gone, when you're gone, when you're gone?
-End is overdue, voices calling to
-Voices that I knew all along
-When you're gone
-My hands reach up onto my face
-and I don't feel a thing
-And I never realized the pain
-this thing I call life
+pv_8544.lyric.001=If I could
+pv_8544.lyric.002=walk right beside you, show you just who I am
+pv_8544.lyric.003=you know I would
+pv_8544.lyric.004=The memories we made fade
+pv_8544.lyric.005=I realize we'll never be the same
+pv_8544.lyric.006=Why can't you see my view?
+pv_8544.lyric.007=Eye to eye, what's fake? what's true?
+pv_8544.lyric.011=Life and these lies
+pv_8544.lyric.012=And every day I'm changing
+pv_8544.lyric.013=and my thoughts keep rearranging
+pv_8544.lyric.014=I don't know if it's all real or fiction
+pv_8544.lyric.015=My memory is hazy,
+pv_8544.lyric.016=can't be sure if what I'm thinking's a lie
+pv_8544.lyric.017=Don't let me go, I can't go
+pv_8544.lyric.021=I'm fighting just to find
+pv_8544.lyric.022=Oh, no
+pv_8544.lyric.031=You go on and grow
+pv_8544.lyric.032=Pass by all that I've known
+pv_8544.lyric.033=And I'm left here all alone
+pv_8544.lyric.034=Recycled thoughts I'm fed
+pv_8544.lyric.035=keep racing in my head
+pv_8544.lyric.036='Till there's nowhere left to go
+pv_8544.lyric.041=Waiting here for you
+pv_8544.lyric.042=I'm always waiting here for you
+pv_8544.lyric.043=What am I to do? What am I to do?
+pv_8544.lyric.044=when you're gone, when you're gone, when you're gone?
+pv_8544.lyric.045=End is overdue, voices calling to
+pv_8544.lyric.046=Voices that I knew all along
+pv_8544.lyric.047=When you're gone
+pv_8544.lyric.048=My hands reach up onto my face
+pv_8544.lyric.049=and I don't feel a thing
+pv_8544.lyric.050=And I never realized the pain
+pv_8544.lyric.051=this thing I call life
