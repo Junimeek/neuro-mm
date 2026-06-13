@@ -5,7 +5,7 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 | Song Name | Chart Status |
 |:-:|:-:|
 | [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Extreme chart started, work put on hold for now |
-| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | Hard and Extreme charts done; other difficulties not started |
+| [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | All difficultues complete |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | Hard and Extreme charts done; Normal needs to be reworked |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
 | [Chinatown Blues<br>(Neuro-sama & Vedal987 ver.)](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
@@ -22,6 +22,13 @@ If you'd like to use one, any mod manager should work without many issues. Alter
 
 ### Recommended Mods
 - Mega Mix Thumbnail Manager
+
+## Contributions
+| Contributor | Notes |
+|:-:|:-:|
+| [pchan](https://twitter.com/pinkpink939/status/1938621657876398081) | Original artist of the jacket art used for Chinatown Blues |
+| [Shay](https://ko-fi.com/shayject) | Created the base for BOOM's extreme chart |
+| Terulmia | Created the base for LIFE's extra-extreme chart |
 
 ## Cloning this Repository
 > **Everything beyond this point is for all zero people who want to screw around with the source.**
