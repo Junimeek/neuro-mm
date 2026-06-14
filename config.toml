@@ -2,7 +2,7 @@ enabled = true
 name = "Neuro-sama Song Pack"
 description = "Song pack for the Neuro-sama songs!\nCurrently, this only has LIFE and BOOM."
 version = "0.2.1"
-date = "12.25.2025"
+date = "6.14.2026"
 author = "Kyokura"
 
 include = ["."]
