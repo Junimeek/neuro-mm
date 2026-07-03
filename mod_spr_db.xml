@@ -71,6 +71,40 @@
         </SpriteTextureInfo>
       </Textures>
     </SpriteSetInfo>
+	<SpriteSetInfo>
+      <Id>4056825954</Id>
+      <Name>SPR_SEL_PV8546</Name>
+      <FileName>spr_sel_pv8546.bin</FileName>
+      <Sprites>
+        <SpriteInfo>
+          <Id>910228709</Id>
+          <Name>SPR_SEL_PV8546_SONG_BG8546</Name>
+          <Index>0</Index>
+        </SpriteInfo>
+        <SpriteInfo>
+          <Id>3213233044</Id>
+          <Name>SPR_SEL_PV8546_SONG_JK8546</Name>
+          <Index>1</Index>
+        </SpriteInfo>
+        <SpriteInfo>
+          <Id>1460725354</Id>
+          <Name>SPR_SEL_PV8546_SONG_LOGO8546</Name>
+          <Index>2</Index>
+        </SpriteInfo>
+      </Sprites>
+      <Textures>
+        <SpriteTextureInfo>
+          <Id>3720789560</Id>
+          <Name>SPRTEX_SEL_PV8546_MERGE_D5COMP_0</Name>
+          <Index>0</Index>
+        </SpriteTextureInfo>
+		<SpriteTextureInfo>
+          <Id>999516076</Id>
+          <Name>SPRTEX_SEL_PV8546_MERGE_D5COMP_1</Name>
+          <Index>1</Index>
+        </SpriteTextureInfo>
+      </Textures>
+    </SpriteSetInfo>
     <SpriteSetInfo>
       <Id>3489063046</Id>
       <Name>SPR_SEL_PVTMB_KYO_NEUROSAMA</Name>
@@ -85,6 +119,11 @@
           <Id>3577962294</Id>
           <Name>SPR_SEL_PVTMB_8545</Name>
           <Index>4</Index>
+        </SpriteInfo>
+		<SpriteInfo>
+          <Id>1306272476</Id>
+          <Name>SPR_SEL_PVTMB_8546</Name>
+          <Index>5</Index>
         </SpriteInfo>
       </Sprites>
       <Textures>
