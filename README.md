@@ -4,24 +4,21 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Extreme chart started, work put on hold for now |
+| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Not started |
 | [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | All difficultues complete |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | All difficulties complete |
-| [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | Not started
+| [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | All difficulties complete
 | [Chinatown Blues<br>(Neuro-sama & Vedal987 ver.)](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 | [Colorful Array](https://www.youtube.com/watch?v=tVKgDbElMEc) | Not started
 
 ## Download
 ### Latest Release
-Currently, this song pack is in Beta Version `0.2.1` with only two songs (LIFE and BOOM). The others will be completed at a later date, I just wanted to push something out.
+Currently, this song pack is in Beta Version `0.3` with only half of the songs (LIFE, BOOM, and NEVER). The others will be completed at a later date, I just wanted to push something out.
 
 If you'd like to use one, any mod manager should work without many issues. Alternatively, a direct download link can be found in the releases on this repository or on [Diva Mod Archive](https://divamodarchive.com/post/293). ~~If~~ all six songs are completed, I will be uploading this to GameBanana as well even though that site sucks.
 
 ### Required Mods
 - [DIVA Mod Loader](https://github.com/blueskythlikesclouds/DivaModLoader) version `0.0.16` or newer
-
-### Recommended Mods
-- Mega Mix Thumbnail Manager
 
 ## Contributions
 | Contributor | Notes |
