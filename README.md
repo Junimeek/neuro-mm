@@ -4,7 +4,7 @@ A mod for [Hatsune Miku: Project DIVA MegaMix+](https://store.steampowered.com/a
 ## Songs
 | Song Name | Chart Status |
 |:-:|:-:|
-| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Not started |
+| [Seishun Complex<br>(Neuro-sama & anny ver.)](https://www.youtube.com/watch?v=nGmwH2ZYlP4) | Extreme and Extra-Extreme difficulties complete |
 | [LIFE](https://www.youtube.com/watch?v=MDc1mjrIsPM) | All difficultues complete |
 | [BOOM](https://www.youtube.com/watch?v=8Nt9YPnYyjs) | All difficulties complete |
 | [NEVER](https://www.youtube.com/watch?v=CKCgoEGiUEg) | All difficulties complete
@@ -23,9 +23,10 @@ If you'd like to use one, any mod manager should work without many issues. Alter
 ## Contributions
 | Contributor | Notes |
 |:-:|:-:|
+| [donzduck](https://x.com/donzduckart/status/1812358080069603727) | Original artist of the jacket art used for Seishun Complex |
 | [pchan](https://twitter.com/pinkpink939/status/1938621657876398081) | Original artist of the jacket art used for Chinatown Blues |
-| [Shay](https://ko-fi.com/shayject) | Created the base for BOOM's extreme chart |
-| Terulmia | Created the base for LIFE's extra-extreme chart |
+| [Shay](https://ko-fi.com/shayject) | Created BOOM's extreme chart |
+| Terulmia | Created Seishun Complex's and LIFE's extra-extreme charts |
 
 ## Cloning this Repository
 > **Everything beyond this point is for all zero people who want to screw around with the source.**
